@@ -1,2 +1,1 @@
-# basebot
-base
+simple base for heroku
